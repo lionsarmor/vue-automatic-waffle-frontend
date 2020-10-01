@@ -1,0 +1,1 @@
+vue-automatic-waffle-frontend
